@@ -19,7 +19,7 @@ namespace OOP1
              // PascalCase  // camelCase
 
             ProductManager productManager = new ProductManager();
-            productManager.Add();
+            productManager.Add(product1);
 
 
             

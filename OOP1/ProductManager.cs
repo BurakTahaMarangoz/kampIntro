@@ -16,10 +16,6 @@ namespace OOP1
             Console.WriteLine(product.ProductName + " güncellendi.");
         }
 
-        public int Topla (int sayi1, int sayi2)
-        {
-            return sayi1 + sayi2;
-        }
-    }
+    
 }
 

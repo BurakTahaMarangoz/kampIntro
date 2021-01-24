@@ -37,6 +37,7 @@ namespace Metotlar
             sepetManager.Ekle2("Armut", "Yeşil Armut", 12, 10);
             sepetManager.Ekle2("Çilek", "Çilek Gibi Çilek", 45, 9);
             sepetManager.Ekle2("Muz", "Muz Gibi Muzs", 80, 8);
+
         }
     }
 }
